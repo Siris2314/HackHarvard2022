@@ -1,0 +1,6 @@
+Sort 3, -4, -7, -44, -16 in decreasing order.
+3, -4, -7, -16, -44
+Sort 8, -4, -564, -14 in increasing order.
+-564, -14, -4, 8
+Put -27518, -5, 2 in increasing order.
+-27518, -5, 2

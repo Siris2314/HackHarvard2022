@@ -1,0 +1,6 @@
+Sort 7, 9, -1 in ascending order.
+-1, 7, 9
+Sort 3, 0.2, 5, -14.
+-14, 0.2, 3, 5
+Put 2/9, -0.5, -2/9 in descending order.
+2/9, -2/9, -0.5

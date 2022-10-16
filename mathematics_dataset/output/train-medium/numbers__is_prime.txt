@@ -1,0 +1,6 @@
+Is 1304259173 prime?
+False
+Is 160084913 a composite number?
+True
+Is 46338601 a prime number?
+True

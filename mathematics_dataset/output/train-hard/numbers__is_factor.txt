@@ -1,0 +1,6 @@
+Is 1662860328 a multiple of 42?
+False
+Is 2629692 a multiple of 6?
+True
+Does 903 divide 273647829?
+True

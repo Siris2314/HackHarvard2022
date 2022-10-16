@@ -1,0 +1,6 @@
+Let q = -91 - -307. List the prime factors of q.
+2, 3
+Suppose -3*b = -3*g, 0 = 3*g - g - b - 5. Suppose -12 = -s + g*s. What are the prime factors of (-26)/s + (-4)/(-12)?
+3
+Let k = 26 + -1. List the prime factors of k.
+5

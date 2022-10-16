@@ -1,0 +1,20 @@
+Find the third derivative of -6882408*l**3 - 487*l**2 - 1427*l wrt l.
+-41294448
+Find the second derivative of -86675*k**3 + 8*k**2*s**2 - k**2*s + 14922*k*s + 27*s**2 wrt k.
+-520050*k + 16*s**2 - 2*s
+Differentiate -1870*j**2 + 1723*j - 11246818 with respect to j.
+1723 - 3740*j
+Find the second derivative of -348*d**3*v**3 - 714*d**3 - 5*d**2*v*y - 2*d*v**3*y - 8*d*v**3 - 14*d*v*y + 84*v**3 + 14*v**2*y + 2 wrt d.
+-2088*d*v**3 - 4284*d - 10*v*y
+Find the third derivative of 14725819*k**5 - 29833*k**2 - 1 wrt k.
+883549140*k**2
+Differentiate 14243974*c**4 + 1214201 with respect to c.
+56975896*c**3
+Find the second derivative of -l**3*m**2 - 4*l**3*m - 7*l**2*m**2 + 2*l*m + 22994*m**2 + 67197*m wrt m.
+-2*l**3 - 14*l**2 + 45988
+Find the first derivative of -3660052*k**3 - 15401862.
+-10980156*k**2
+What is the second derivative of 10434835*h**4 + 10372615*h wrt h?
+125218020*h**2
+What is the derivative of 9520596*j**2 - 6609406?
+19041192*j

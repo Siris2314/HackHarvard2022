@@ -1,0 +1,6 @@
+Collect the terms in 110*s**3 + 69*s**2 - 69*s**2.
+110*s**3
+Collect the terms in 3*n**3 - 1 - 5*n**3 - 323*n + 1.
+-2*n**3 - 323*n
+Collect the terms in 67*j + 3 - 3.
+67*j

@@ -1,0 +1,6 @@
+Let m(x) = -3*x - 9. Let g(b) = -12*b - 37. Let f(v) = 4*g(v) - 18*m(v). List the prime factors of f(7).
+2, 7
+Let d be (-4)/10 - (-194)/10. Suppose -142*v - 24 = -145*v. Let j = d - v. What are the prime factors of j?
+11
+Suppose 0 = -5*y - 10, 4*y + 4838 = 2*z + 1268. List the prime factors of z.
+13, 137

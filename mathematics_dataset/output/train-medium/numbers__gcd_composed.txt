@@ -1,0 +1,6 @@
+Let l(h) = h**2 + 9*h + 17. Let g be l(-7). Suppose 30 + 3 = g*j. What is the highest common factor of 44 and j?
+11
+Let f be 374/5 - 2/(-10). What is the highest common divisor of 25 and f?
+25
+Let o be (4/3)/(42/27)*42. Suppose 0 = 6*q - 12*q + o. Calculate the highest common divisor of 6 and q.
+6

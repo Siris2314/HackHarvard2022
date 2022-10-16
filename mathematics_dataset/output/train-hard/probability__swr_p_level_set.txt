@@ -1,0 +1,6 @@
+What is prob of picking 4 w when four letters picked without replacement from {k: 1, y: 4, h: 3, w: 4, e: 5, i: 3}?
+1/4845
+Two letters picked without replacement from {y: 4, d: 2, k: 5}. Give prob of picking 2 y.
+6/55
+Four letters picked without replacement from ggdggdggnng. What is prob of picking 1 d and 3 g?
+7/33

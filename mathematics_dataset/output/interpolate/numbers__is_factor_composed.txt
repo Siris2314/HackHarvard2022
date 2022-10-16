@@ -1,0 +1,20 @@
+Let v = -12264 - -17784. Is 10 a factor of v?
+True
+Let n be 12/(-8)*9/((-81)/2310). Let a = n - 122. Is a a multiple of 38?
+False
+Suppose 8*t + 534 = -394. Let q = -32 - t. Is 12 a factor of q?
+True
+Let p be (-13 - 0)*-61 + (-36 - -35). Suppose p = 4*m - 404. Does 16 divide m?
+False
+Suppose 0 = -7*x + 9*x - 8, 5*x = -2*a + 5402. Suppose a = 16*i - 1885. Is 13 a factor of i?
+True
+Let p = -87 - -311. Suppose -824 = -8*o - p. Is o a multiple of 25?
+True
+Does 4 divide (2520/27)/14*36?
+True
+Suppose 5*u + 14842 = 3*h, -159*u + 160*u - 24746 = -5*h. Is 7 a factor of h?
+True
+Suppose 0*t = -t. Suppose 0 = j - 4*q - 20, 2*j - q - 40 = -t*j. Suppose 0 = 11*u - 7*u - j. Does 5 divide u?
+True
+Suppose 4*x - 210 = -2*q, 0 = -2*q - 2*q + 5*x + 459. Suppose 0 = -3*z + 3*r + q, -2*r + r + 74 = 2*z. Let j = z + 22. Is 15 a factor of j?
+False

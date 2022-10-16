@@ -1,0 +1,6 @@
+What is the third smallest value in 0, -2/9, -5, -8, 0.05?
+-2/9
+Which is the third biggest value?  (a) 2/13  (b) -91416  (c) 5
+b
+What is the second smallest value in -4, -3, 0.012, -5, 27?
+-4

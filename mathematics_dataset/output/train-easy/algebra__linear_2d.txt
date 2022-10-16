@@ -1,0 +1,6 @@
+Solve 3*u + 8 = -i - 4, -7*i + u + 4 = 0 for i.
+0
+Solve -3*b + 2*v + 10 = 0, 2*b + 5 = -3*v + 2*v for b.
+0
+Solve 2*q - g = -8, -2*q - 67 + 71 = 2*g for q.
+-2

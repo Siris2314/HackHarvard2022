@@ -1,0 +1,6 @@
+Collect the terms in 7*u**2 + 118*u + 59*u**2 - 51 + 0*u.
+66*u**2 + 118*u - 51
+Collect the terms in 12069939069391*k - 12069939069391*k - 8*k**2.
+-8*k**2
+Collect the terms in 37*j**2 + 45*j**2 - 27*j**2 - 25*j**3 + 21*j**3.
+-4*j**3 + 55*j**2

@@ -1,0 +1,20 @@
+Let k be 8/(-3) - (-7103178)/918. What is the greatest common factor of 65 and k?
+65
+Let z(o) = -o**3 + 25*o**2 - 12*o + 102. Let q be z(20). What is the highest common factor of 28 and q?
+14
+Let s(t) = -t**3 + t**2 + t + 10. Let n be s(0). Let b be (-372)/(-78)*13 - (-6)/2. Calculate the greatest common factor of b and n.
+5
+Suppose -4*t = -4*u + 4, 5*u - t - 12 = -3*t. Suppose -3*y + 285 = -8*p + 11*p, u*y - 472 = -5*p. What is the highest common factor of p and 141?
+47
+Let x(r) = 11 - 15*r. Let c be x(8). Let d = c - -137. Calculate the greatest common factor of 14 and d.
+14
+Suppose 0 = 14*k - 8*k + 558. Let l = 102 + k. Calculate the highest common divisor of l and 1.
+1
+Let w be (632/32 - 17)*1*12. What is the greatest common factor of w and 69?
+3
+Suppose 24*b = 28*b - 136. Suppose 5*g - 26 - b = 0. Let r(s) = 2*s**2 - 9*s + 6. Let k be r(6). Calculate the greatest common divisor of k and g.
+12
+Suppose 5*m = 0, s - 16 = -s + 2*m. Suppose 0 = -s*t + 136 + 40. What is the highest common factor of 66 and t?
+22
+Let s(l) = -l**3 + 7*l**2 - 19. Let x be s(6). Let p be (35/(-20) - -2) + 814/8. What is the greatest common divisor of x and p?
+17

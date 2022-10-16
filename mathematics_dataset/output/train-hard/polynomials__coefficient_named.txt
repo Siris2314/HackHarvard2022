@@ -1,0 +1,6 @@
+Express -638 + 324 + 1729*u**2 + 314 + 2385*u**2 in the form z*u**2 + x + j*u and give z.
+4114
+Express -308*n**2 + 7 - 310*n**2 - 309*n**2 - 272*n**3 + 926*n**2 as z*n**2 + o*n**3 + x*n + f and give z.
+-1
+Express (176034 - 176034 - 1945*d**2)*(0 + 3*d - d + 1) in the form w*d + a*d**2 + u*d**3 + h and give u.
+-3890

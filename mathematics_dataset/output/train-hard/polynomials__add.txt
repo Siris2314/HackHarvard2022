@@ -1,0 +1,6 @@
+Let d(b) = b + 21. Let c(y) = 4. Let i(h) = 20. Let k(a) = -4*c(a) + i(a). Let m = 58 + -69. What is m*k(s) + 2*d(s)?
+2*s - 2
+Let x(y) = -y - 5. Let o(h) = 169 + 169 - 3*h - 339 + h + h. Give 6*o(i) - x(i).
+-5*i - 1
+Let z(m) = -m. Suppose -10*n = -7*n - 12, -5*w - n = -14. Let j(x) = -1. What is w*j(o) + 6*z(o)?
+-6*o - 2

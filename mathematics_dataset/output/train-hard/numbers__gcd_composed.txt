@@ -1,0 +1,6 @@
+Let f(d) = d**3 + 71*d**2 - 22*d - 1546. Let u be f(-71). Let n be -1 + -1 - -144 - -2. Calculate the highest common divisor of u and n.
+16
+Let r(d) = d + 1. Let b(w) = -42 + 11 + 3 - 47 - 30*w. Let o(j) = -b(j) - 25*r(j). Let t be o(-7). Calculate the highest common divisor of t and 75.
+15
+Let r(w) = 169*w - 351. Let m be r(7). Calculate the highest common divisor of m and 3536.
+208

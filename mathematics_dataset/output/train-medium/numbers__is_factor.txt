@@ -1,0 +1,6 @@
+Is 2226 a factor of 6942894?
+True
+Is 6 a factor of 519853?
+False
+Does 37 divide 2351607?
+False

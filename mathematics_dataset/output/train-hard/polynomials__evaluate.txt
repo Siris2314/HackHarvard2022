@@ -1,0 +1,6 @@
+Let g(u) = 9*u**2 - 71*u - 161. Determine g(-6).
+589
+Let a(g) = 268232 - 909*g. What is a(295)?
+77
+Let d(u) = -u**2 - 6391*u + 296068. Determine d(46).
+-34

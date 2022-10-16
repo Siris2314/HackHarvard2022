@@ -1,0 +1,6 @@
+Let g(s) = 6 - 8*s. Let d(m) = -100*m**2 - 80*m**2 + 186*m**2. Determine g(d(i)).
+6 - 48*i**2
+Let q(m) = -15*m. Let v(a) be the second derivative of 1/4*a**4 + 0*a**3 + 0 - 23*a + 0*a**2. Determine q(v(b)).
+-45*b**2
+Let u(l) = 3. Let q(p) = 3 - 2*p**2. Let x = 79 - 78. Let d(m) = x*u(m) - q(m). Let a(z) = 15*z**2 + 4*z. Determine d(a(r)).
+450*r**4 + 240*r**3 + 32*r**2

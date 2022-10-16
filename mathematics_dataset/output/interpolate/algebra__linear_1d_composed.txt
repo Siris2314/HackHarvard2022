@@ -1,0 +1,20 @@
+Let l = 17 - 18. Let b = 31 + -25. Let v be (8/16)/(-1*l/b). Solve v + 7 = -2*a for a.
+-5
+Let x = 35 + -26. Suppose -5*t + 24 - x = 0. Suppose n = -t*n. Solve -5*q + 3*q - 4 = n for q.
+-2
+Let x be (-4)/(-16)*600/10. Solve 0 = 6*u - 9*u - x for u.
+-5
+Suppose -4*h + 7*h = h. Let t(b) = b**2 + 3*b + 1. Let l be t(-4). Solve l*s = 20 - h for s.
+4
+Let r be (4/6)/((-12)/24)*(-3 - 66). Solve -13*v + 40 = r for v.
+-4
+Let p = 3097 - 3093. Solve p = -7*s - 3 for s.
+-1
+Let b(q) = -287*q**3 - 9*q**2 - 5*q + 3. Let d be b(-1). Solve 5*p + d = 291 for p.
+1
+Let x(z) = -16*z**2 - 93*z + 1. Let k be x(-5). Solve -k*u = -74*u + 32 for u.
+4
+Suppose 2*g + 3 + 3 = 0. Let r(y) = 2*y - 5*y - 17 + 8. Let v be r(g). Solve v = l + 2*l + 12 for l.
+-4
+Let z be 16/60 + (-12360)/(-900). Solve z = -10*g - 6 for g.
+-2

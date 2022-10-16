@@ -1,0 +1,20 @@
+Solve 0 = -6*r + 306 - 117 - 477 for r.
+-48
+Solve -25*q + 36*q - 943 = 18*q + 16*q for q.
+-41
+Solve -21 - 4 = -5*p + 6*p + 20 for p.
+-45
+Solve -75*t + 484 = 1612 + 447 for t.
+-21
+Solve -24*v - 56813 = -56237 for v.
+-24
+Solve -256*w + 242*w - 112 = 0 for w.
+-8
+Solve 14*q = 10*q - 13*q - 3*q - 880 for q.
+-44
+Solve 574*d - 94*d + 5*d = -6652 - 1108 for d.
+-16
+Solve 2826*k + 271 = 2555*k for k.
+-1
+Solve 1024 + 1715 = -131*u - 1584 for u.
+-33

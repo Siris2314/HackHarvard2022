@@ -1,0 +1,6 @@
+Let q(p) be the third derivative of p**5/30 - 7*p**4/8 + 5*p**3/3 + 4*p**2. Let z be q(10). Does 4 = z?
+False
+Let b = -1698 + 1713. Which is bigger: -0.4 or b?
+b
+Let p be (-14)/(-49) + (-534)/7. Let s = 155/2 + p. Let y be (1/2)/(2/12). Which is bigger: s or y?
+y

@@ -1,0 +1,6 @@
+Let y be 97/(-2*3/(-48)). Suppose -4*u + y = -2536. Let g = -19 + u. Is g composite?
+False
+Is -10*(-6)/(-24)*(-8)/(-20)*-6686 composite?
+True
+Let f(u) = 40758*u + 329. Is f(2) composite?
+True

@@ -1,0 +1,6 @@
+Let q be 24/11 - 4/22. Let p be 2 - (-1)/((-1)/2). Let d(h) = 4*h + p - 5 + h**2 + 2*h**3 - 3*h**3 + 3. Calculate d(q).
+2
+Let s(z) be the third derivative of z**6/120 + 3*z**5/20 - 5*z**4/12 - 2*z**3/3 - 80*z**2 - 2. Give s(-10).
+-4
+Let r(l) = l**3 + 6*l**2 - 6*l + 7. Suppose -3*m - 4*k + 59 = 0, m + 5*k - 18 = 4*k. Suppose -z - m = -6. Let t be r(z). Let o(p) = p - 2. What is o(t)?
+-2

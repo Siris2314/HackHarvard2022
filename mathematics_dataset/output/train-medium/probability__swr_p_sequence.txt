@@ -1,0 +1,6 @@
+What is prob of sequence jj when two letters picked without replacement from {d: 1, j: 2}?
+1/3
+Four letters picked without replacement from {o: 3, l: 4, i: 7, x: 5}. Give prob of sequence lxix.
+35/5814
+Calculate prob of sequence mvt when three letters picked without replacement from {v: 1, t: 1, f: 2, m: 11}.
+11/2730

@@ -1,0 +1,6 @@
+Calculate the highest common factor of 1 and 41.
+1
+What is the greatest common factor of 8 and 8?
+8
+Calculate the greatest common factor of 12382 and 82.
+82

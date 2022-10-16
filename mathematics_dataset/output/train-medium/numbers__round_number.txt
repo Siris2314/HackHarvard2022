@@ -1,0 +1,6 @@
+What is 269092700 rounded to the nearest one million?
+269000000
+Round -0.9867684 to 1 dp.
+-1
+What is 122.1266 rounded to the nearest 10?
+120

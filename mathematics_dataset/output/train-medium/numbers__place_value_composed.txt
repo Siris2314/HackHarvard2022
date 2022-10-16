@@ -1,0 +1,6 @@
+Let w = 70 + -55. Suppose 16*a - w*a - 75 = 0. What is the units digit of a?
+5
+What is the units digit of (6*(-3)/(-36))/((-1)/(-770))?
+5
+Let a = 1958 - 1227. What is the tens digit of a?
+3

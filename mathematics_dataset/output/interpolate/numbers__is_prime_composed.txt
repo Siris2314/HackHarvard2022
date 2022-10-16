@@ -1,0 +1,20 @@
+Suppose -8*x + 6*x = 0. Let u be (-6)/(-3) - (x - 2). Suppose 2*g + 0 = u, 5*g - 3967 = -3*j. Is j prime?
+True
+Suppose -460*n + 475*n - 377355 = 0. Is n composite?
+True
+Let k(x) be the second derivative of x**6/720 + 169*x**5/120 + 5*x**4/4 - 3*x. Let n(y) be the third derivative of k(y). Is n(0) a prime number?
+False
+Let u(c) = -c**3 + 16*c**2 + 13*c - 44. Let s be u(9). Is 1 + (-2 + s - 4) composite?
+True
+Let u(c) = 6*c**2 - c - 7. Let n be u(-12). Let q be (-19128)/52 - 2/13. Let r = q + n. Is r a composite number?
+True
+Let u = -49958 - -275347. Is u a prime number?
+False
+Let l(i) = i**3 - 9*i**2 - 3*i + 2. Let c = -130 - -141. Is l(c) prime?
+True
+Suppose 4*x = -3*w + 34554 - 7595, 5*x - 35944 = -4*w. Is w composite?
+True
+Let q be (74/8)/((-1)/(-380)). Let p = 8218 - q. Is p a composite number?
+False
+Suppose -73*d + 76*d - 624 = 0. Suppose -211*v + d*v + 834 = 0. Is v prime?
+False

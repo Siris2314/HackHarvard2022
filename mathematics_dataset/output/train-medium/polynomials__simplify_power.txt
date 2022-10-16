@@ -1,0 +1,6 @@
+Simplify (g*g**(-22/3)*g*g)/g*g*g*g*g**(2/3)/g*g*g*g*g*g/g**10*g*g*g*((g/(g/g**18*g))/g)/g*g assuming g is positive.
+g**(34/3)
+Simplify y**(-7)*y*y**(-1/5)*(y/((y/(y*(y*y*y/((y/(y*y*y**11/y*y))/y*y*y))/y*y))/y))/y**(-1/11) assuming y is positive.
+y**(544/55)
+Simplify (d**(4/5))**(10/3)/(d/d**(-7)*d)**(35/6) assuming d is positive.
+d**(-299/6)

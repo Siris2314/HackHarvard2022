@@ -1,0 +1,6 @@
+Let i = -246507.9200194 + 246508. Let l = 0.1279757 - i. Let z = -0.048 + l. Round z to 6 decimal places.
+-0.000005
+Let s be 3/(-1) - 0/(-3). Let k(o) = 10302*o - 3. Let h be k(s). Let r = h + 17909. What is r rounded to the nearest 10000?
+-10000
+Let z = 0.229969 - 0.23. Round z to 4 dps.
+0

@@ -1,0 +1,6 @@
+Let q be -2 - (-5 + 2)*6. Suppose -4 = 4*n - q. Solve -2*h = -n*u - 15, 0 = -0*h - 5*h - u + 12 for h.
+3
+Let h be ((-7)/(-2) - 3)*-10. Let v be (-3)/(-5) + (-7)/h. Solve -4*n + 16 = -4*w, 3*w + v*n + 12 = 4*n for w.
+-4
+Let y = -20 + 34. Let q be (-2 - -1)*1*-3. Suppose -20 = -5*j, -q*j = 5*n + j - 26. Solve 4*f = 12, -f - n*f = 5*g - y for g.
+1

@@ -1,0 +1,6 @@
+In base 10, what is -873 + -10?
+-883
+In base 3, what is 0 - -200210001001?
+200210001001
+In base 9, what is -1114 + 8707?
+7583

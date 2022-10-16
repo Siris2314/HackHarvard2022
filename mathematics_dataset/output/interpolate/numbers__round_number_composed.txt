@@ -1,0 +1,20 @@
+Suppose 4*n + 28484 = 3*r - 52581, 0 = -5*n - 5*r - 101375. Round n to the nearest ten thousand.
+-20000
+Let k = -72221989 - -72222103.999859. Let v = -0.14 + 115.14. Let j = k - v. Round j to 5 dps.
+-0.00014
+Suppose p = -3*p + 2016032. Suppose -1512016 = -7*z + 4*z - 4*t, -z = 2*t - p. Round z to the nearest 100000.
+500000
+Let m(a) = 140496*a + 80. Let z(x) = 3*x**3 - x**2 + x - 2. Let i be z(2). Let f be m(i). Round f to the nearest 100000.
+2800000
+Suppose -6*n + 19*n = 290004. Suppose -6*v - 59268 + n = 0. Round v to the nearest one thousand.
+-6000
+Let c = 3746.76549 - -60353.33472. Let k = 64061.1 - c. Let g = -39 - k. Round g to 4 dps.
+0.0002
+Let t = -18 + 18. Suppose -2*h = -2*x - t*h + 3919992, 9799988 = 5*x - 3*h. Suppose -3*c - c = x. Round c to the nearest one hundred thousand.
+-500000
+Suppose -55337 = -3*g - 5*u, 4*g = 4*u + 34464 + 39340. Round g to the nearest 100.
+18400
+Let b = 226.5 + -177.04. Let f = b - -0.04. Round f to the nearest 10.
+50
+Let y = 133774245.62290312 - 139259607.822903. Let z = 5485364 + y. Let t = z + -1.8. What is t rounded to 7 dps?
+0.0000001

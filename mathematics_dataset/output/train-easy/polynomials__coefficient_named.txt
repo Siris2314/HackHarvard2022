@@ -1,0 +1,6 @@
+Rearrange 4*l**2 + 7*l**2 - 5*l**2 + (-l + 0*l + 2*l)*(4*l - 2*l - 3*l) + 5*l**2 - 2*l**2 - l**2 to the form p*l**2 + z*l + o and give p.
+7
+Rearrange -14*p**2 + 2*p + 5*p**4 - 3 + 14*p**2 to the form l*p**4 + x*p + u + g*p**2 + c*p**3 and give u.
+-3
+Express ((2 + 3 - 3)*(-2 - 4 + 5) - 3 + 3 - 2)*(-4*n + 5*n + 4*n) in the form a*n + t and give a.
+-20

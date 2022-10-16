@@ -1,0 +1,6 @@
+Is -3028 smaller than -2892?
+True
+Are 0 and -726/12281 equal?
+False
+Is -11 < 1128?
+True

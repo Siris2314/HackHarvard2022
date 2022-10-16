@@ -1,0 +1,6 @@
+Let u(m) = 14 - 9*m. Let y be u(1). Put y, 100, 4 in decreasing order.
+100, y, 4
+Suppose -5*i = 2*y + 16, 5*i + 4*y + y + 10 = 0. Let m be -1*(-5)/10 + 3/i. Sort 2/13, 0, m in increasing order.
+m, 0, 2/13
+Suppose 2 = 2*z + g + g, -5*z - 3*g = -13. Let r(u) = -8*u**3 - 2*u**2 - u. Let j be r(-1). Sort 2, j, z in increasing order.
+2, z, j

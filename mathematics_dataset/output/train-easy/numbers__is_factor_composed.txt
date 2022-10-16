@@ -1,0 +1,6 @@
+Suppose -4*p + 12 = 0, 4*a - 2*a - 2*p - 20 = 0. Suppose t + 1 = a. Is 4 a factor of t?
+True
+Suppose 8 = 3*n - 4. Let x be (12/6)/(n/6). Suppose i + x*i = 8. Is 2 a factor of i?
+True
+Let g be 52/16 - (-1)/(-4). Does 5 divide (-16 - -1)/(g/(-5))?
+True

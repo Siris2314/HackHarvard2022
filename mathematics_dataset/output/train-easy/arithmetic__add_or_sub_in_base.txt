@@ -1,0 +1,6 @@
+In base 11, what is 81 + 0?
+81
+In base 14, what is 19 + -12?
+7
+In base 2, what is 10 + 1111000111?
+1111001001

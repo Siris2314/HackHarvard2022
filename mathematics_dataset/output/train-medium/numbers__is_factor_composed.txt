@@ -1,0 +1,6 @@
+Let j(y) = -y**3 + y**2 + y - 3. Let t be j(2). Let v = t - -21. Does 12 divide ((-105)/(-10))/(3/v)?
+False
+Let j = -439 + 455. Does 4 divide j?
+True
+Let u(f) be the third derivative of f**6/720 + f**5/20 + f**4/12 + 5*f**2. Let y(d) be the second derivative of u(d). Is y(-4) even?
+True

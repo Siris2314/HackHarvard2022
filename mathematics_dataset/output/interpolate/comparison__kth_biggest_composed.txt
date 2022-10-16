@@ -1,0 +1,20 @@
+Let o = -14700 - -14710. Let x = 875/6 + -145. Which is the second smallest value?  (a) x  (b) o  (c) -1/7
+a
+Let j = 176.2 - 164. Let g = j - 7.2. What is the third biggest value in -2/23, -3, g?
+-3
+Let h = 1215454/1005 - 18148/15. Let z = -4/67 - h. What is the smallest value in 2, 1, z, 0.3?
+0.3
+Let k = -0.1 + 0.1. Let u = -171.1 - 2.9. Let o = u + 170. What is the smallest value in k, o, -1/3, 1/2?
+o
+Let x = -0.164 - -99.164. Let n = x - 98.993. Which is the second smallest value?  (a) -3  (b) n  (c) -2
+c
+Let y = 4071 + -4075. Which is the second biggest value?  (a) 3/4  (b) y  (c) 1.28
+a
+Let p = -457.2 + 457.5. What is the smallest value in 2/31, 0, p, -0.36?
+-0.36
+Let h be (29/12 + -2)*14/105. Which is the third smallest value?  (a) 2/9  (b) 15/8  (c) h
+b
+Let o = 10.01 + -10. Let n = -5.01 + o. Let p = -848 - -850. What is the second biggest value in -1/6, p, -1/3, n?
+-1/6
+Let t = 0.1976 - -0.2024. Which is the second biggest value?  (a) 0.1  (b) 2  (c) t  (d) -0.02
+c

@@ -1,0 +1,20 @@
+Let y(f) = -3 - 3*f + 2 + 0. Let l = 31219 - 31220. Give y(l).
+2
+Let t(f) = -f**2 - 8*f + 13. Suppose -2 = -d - 0. Let b(i) = 3*i - 12 + i**d + 4*i + 0*i. Let p(r) = 7*b(r) + 6*t(r). Determine p(-4).
+6
+Let d(i) = 12 - i. Let w(s) = -s**3 + 15*s**2 - 19*s + 30. Let l be w(14). Let b = 47 + l. Calculate d(b).
+5
+Let y(a) = a**2 + 5*a - 3. Suppose 3*q + 4*s + 14 = 5*q, -71 = -3*q - 4*s. Suppose -2*p - q = -7. Determine y(p).
+-3
+Suppose 0 = 4*a - 97 - 119. Let o = 52 - a. Let q(s) = 8*s**2 + 2. What is q(o)?
+34
+Suppose -5*u + 677 = s - 0*u, -s - u + 673 = 0. Let r(n) = -s*n - 2*n**2 + 2 + 672*n. Suppose -5*b + 19 = -6, 5*m + 30 = 4*b. Determine r(m).
+-6
+Let d(p) = p**3 - 15*p**2 - 214*p + 21. Let g be d(-9). Let c(k) be the third derivative of -k**4/24 + k**3/3 - k**2. Give c(g).
+-1
+Suppose 3*s - s + 12 = 0. Let u(g) = 13*g**3 + 20*g**2 - 222*g - 14. Let z(d) = 3*d**3 + 5*d**2 - 50*d - 3. Let b(i) = 2*u(i) - 9*z(i). Determine b(s).
+-1
+Let p be 12/2*20/12. Let s(f) = f**2 - 10*f - 10. Let d be s(p). Let a(y) be the second derivative of y**3/6 + 9*y**2/2 - 137*y - 2. Give a(d).
+-1
+Let p(d) = -22907*d + 11433*d - 3 + 11473*d. Suppose r + 6 = 3*r, -4*b + 23 = r. What is p(b)?
+-8

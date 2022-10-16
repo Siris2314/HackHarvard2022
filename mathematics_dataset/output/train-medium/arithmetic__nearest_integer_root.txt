@@ -1,0 +1,6 @@
+What is the third root of 105818 to the nearest integer?
+47
+What is the eighth root of 5167920 to the nearest integer?
+7
+What is the cube root of 1946971 to the nearest integer?
+125

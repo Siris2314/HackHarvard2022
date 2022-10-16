@@ -1,0 +1,6 @@
+Let u = -29 + 49. What is the highest common factor of 8 and u?
+4
+Let t(p) = 1 - 26*p. Suppose 5*d + 0*d = -5, 0 = -2*c + 3*d + 1. Let f be t(c). What is the highest common divisor of f and 9?
+9
+Suppose 0*o - 80 = 2*o. Let r = 88 + o. Let b = r - 24. Calculate the highest common divisor of 4 and b.
+4

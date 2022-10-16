@@ -1,0 +1,6 @@
+Find the first derivative of 199 - 411*f**2 wrt f.
+-822*f
+Find the third derivative of -4*g**4 + 14*g**3 - 2*g**2 + 22 wrt g.
+84 - 96*g
+What is the third derivative of -14*f**3*h**3*u - 5*f**3*h - 8*f**2*h**3*u**2 + f*h*u**2 - 2*f*h - 4*h**2*u**2 wrt h?
+-84*f**3*u - 48*f**2*u**2

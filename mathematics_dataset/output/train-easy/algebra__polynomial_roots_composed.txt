@@ -1,0 +1,6 @@
+Let i(g) be the second derivative of g**7/14 - g**6/2 + 3*g**5/20 + 17*g**4/4 - 11*g**3 + 12*g**2 - 34*g. Factor i(c).
+3*(c - 4)*(c - 1)**3*(c + 2)
+Let v(l) be the first derivative of -l**5 + 15*l**4/4 - 5*l**3/3 - 15*l**2/2 + 10*l + 18. Suppose v(a) = 0. What is a?
+-1, 1, 2
+Let d(a) = -3 + 4 + 2 + 5*a - 3*a**2. Let z(j) be the second derivative of -j**4/3 + j**3 + 2*j**2 + 4*j. Let i(h) = 6*d(h) - 5*z(h). Factor i(m).
+2*(m - 1)*(m + 1)

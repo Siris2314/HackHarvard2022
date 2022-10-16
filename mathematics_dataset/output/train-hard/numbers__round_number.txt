@@ -1,0 +1,6 @@
+Round 45.599231 to one dp.
+45.6
+What is -0.0384387998 rounded to four dps?
+-0.0384
+Round 3199796.508 to the nearest one thousand.
+3200000

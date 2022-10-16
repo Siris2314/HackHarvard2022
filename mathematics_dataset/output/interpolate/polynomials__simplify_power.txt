@@ -1,0 +1,20 @@
+Simplify ((((q*q**(11/3))/q)/q**(-5/6))/(q/((q/(q*q/(q*(q**(-2/11)*q)/q*q)*q)*q)/q)*q*q**0))**10 assuming q is positive.
+q**(255/11)
+Simplify (b**32/(b**(-2/11)/b**(-3)))/((b**(3/4)*b/b**(-2)*b)/(b*b**(-2)*b*b*b/b**0)) assuming b is positive.
+b**(1163/44)
+Simplify (o**(-1/4)/o**(-17))/(o**(-3/10)*o/(o/(o**(1/5)/o))*o*o**(-1/3)) assuming o is positive.
+o**(1031/60)
+Simplify c**(1/18)*c**(1/22)*(c*c*c**(3/8)/c*((c**1/c*c)/c)/c)/(c**(-2)/(c*c**(-2))) assuming c is positive.
+c**(1169/792)
+Simplify (t/t**(-4)*t*t**(5/4)*t)**(-2/53)/((t**(1/4)*(t**(2/5)*t)/t)/(t**(-5)/(t*t**(1/3)))) assuming t is positive.
+t**(-23197/3180)
+Simplify (b*(b/(((b**(4/7)/b)/b*b)/b))/b*b/b**1*b*b**5*b**1)/(((b*b**3)/b**(3/2))/(b**(-4)*(b*b/(b*b/(b*b**(-4))))/b)) assuming b is positive.
+b**(-15/14)
+Simplify ((p*p**4*p*p**(-1/4))/(p**(-2)/p**4))/(((p/(p**(-3)*p))/(p*p*p*p**5*p*p))/(p**(-3)*p**(-2/5)/p)) assuming p is positive.
+p**(287/20)
+Simplify (q**(-2/55)*(q*(q*(q/q**(-2/9))/q)/q)/q**(1/2))/(((q*q**(2/5))/q**3)/(q**(1/4)*q/(q**(1/4)*q)*q)) assuming q is positive.
+q**(3253/990)
+Simplify ((v*v*(v**(7/5)/v)/v*v*v*v*v**(-12/5)*v)/(v*v/(v**(-2/13)*v))**0)**(-1/17) assuming v is positive.
+v**(-3/17)
+Simplify x**(6/31)/x**18*x**21*(((x*x**5*x)/x)/x)/(((x**(-2)/x)/x)/x*x) assuming x is positive.
+x**(378/31)

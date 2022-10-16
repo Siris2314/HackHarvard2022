@@ -1,0 +1,6 @@
+Let k(n) be the first derivative of -4*n**3/3 - 24*n**2 + 15*n - 10641. Give k(-13).
+-37
+Let l(a) = 2648 - 27*a. Let z be l(98). Let m(v) = 1 - 7*v - 2 - 3. Let b(y) = -7*y - 3. Let s(f) = -5*b(f) + 4*m(f). Calculate s(z).
+13
+Suppose 48 = 8*j - 4*j - 4*y, -4*y + 105 = 5*j. Let m be ((-2)/j + (-75)/(-204))*4. Let f(s) = 1 - 5*s**2. Calculate f(m).
+-4

@@ -1,0 +1,20 @@
+Suppose -17 = -5*k + 2*a, -4*k + a - 5 = -6*k. Suppose -5*m + 2*i + 19 = 0, 4*m - 5 = k*i + 6. Solve 3*v - 4*x + 19 = -13, m*x = 2*v + 33 for v.
+-4
+Let s(f) = 6*f - 7. Suppose 2*p - 18 = -4*p. Let k be s(p). Let q = k - 11. Solve -2*r - 4*o + 4 = q, -4*r + o + 8 = 6*o for r.
+2
+Suppose 4*g = 3*m - 79, 5*m - 124 = -0*m - g. Let r = 7 + m. Suppose 8*y - 8 = r. Solve -3*i - 10 = s - 3*s, -y*i - 15 = -5*s for s.
+-1
+Let q = -298 - -218. Let t = q - -84. Solve -5*x + 13 = -0*x - 2*p, -5*x = -t*p - 21 for x.
+1
+Let w(b) = 18 - 4*b. Let x be ((-21)/(-12) - -3) + (-6)/8. Let y be w(x). Solve -2*t - y*t - s + 25 = 0, -2*t - 3*s = -25 for t.
+5
+Let v(n) = 3*n**2 + n. Let g be v(1). Suppose 2 + 118 = 3*p. Let w = p - 25. Solve g*i = -4*x + 12, w = 2*x + 4*i + 3 for x.
+0
+Suppose p = w + 20, 4*p - 74 = -6*w + 4*w. Solve 0*o = 5*o + 4*k + p, 0 = -5*o - 3*k - 18 for o.
+-3
+Let r(c) = 4*c + 152. Let w be r(-37). Solve p + 5*d + 33 - w = 0, 45 = -5*p - 5*d for p.
+-4
+Let c = -113 + 113. Solve c*f - 3*i - 6 = 3*f, -5*i = f - 2 for f.
+-3
+Suppose -98*m - 3 = -70*m - 59. Solve -3*i + 27 = 19*w - 15*w, i = w + m for i.
+5

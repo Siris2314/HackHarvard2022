@@ -1,0 +1,6 @@
+Simplify (((-2 + sqrt(500) + sqrt(500))*2 + 3*sqrt(180)*6)*1)**2.
+109536 - 1184*sqrt(5)
+Simplify ((-2*sqrt(240)*-4 + sqrt(240))/(sqrt(27)/(sqrt(9) - sqrt(36)/sqrt(4)*-6)))**2.
+317520
+Simplify ((sqrt(102)*2 + sqrt(102))*-5)/(sqrt(6) - 5*sqrt(6)*1).
+15*sqrt(17)/4

@@ -1,0 +1,6 @@
+What is the remainder when 58611399 is divided by 687?
+681
+Calculate the remainder when 4229952 is divided by 319.
+12
+Calculate the remainder when 2424288 is divided by 143.
+9

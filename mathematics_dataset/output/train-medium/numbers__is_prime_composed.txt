@@ -1,0 +1,6 @@
+Let m(g) = -4*g**2 - 12*g - 4. Let a(x) = 3*x**2 + 13*x + 5. Let n(s) = 3*a(s) + 4*m(s). Let y(z) be the first derivative of n(z). Is y(-12) prime?
+False
+Suppose 51991 = 84*y - 131045. Is y a composite number?
+False
+Suppose -a - 132 = -3*q, 10*a + 210 = 5*q + 5*a. Suppose -1017 = -4*g + 679. Let n = g + q. Is n a prime number?
+False

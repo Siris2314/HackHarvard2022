@@ -1,0 +1,20 @@
+What is 6028 (base 11) in base 7?
+32241
+Convert 3e8ae (base 15) to base 7.
+1465160
+What is 1412 (base 14) in base 15?
+10b4
+1011100100111100 (base 2) to base 7
+255152
+-202033111 (base 4) to base 6
+-3001141
+Convert 11100100111011110 (base 2) to base 11.
+80079
+39b57 (base 13) to base 12
+5218b
+Convert -13479 (base 14) to base 4.
+-23212303
+-be1f (base 16) to base 11
+-33627
+Convert 11011101111010010 (base 2) to base 7.
+652151

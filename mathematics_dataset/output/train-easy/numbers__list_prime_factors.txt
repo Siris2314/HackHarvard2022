@@ -1,0 +1,6 @@
+List the prime factors of 1890.
+2, 3, 5, 7
+List the prime factors of 21026.
+2, 10513
+What are the prime factors of 6721?
+11, 13, 47

@@ -1,0 +1,20 @@
+Let g(a) = -a**2 + 11*a + 133. Determine g(-4).
+73
+Let r(h) = h**3 - 110*h - 58. What is r(10)?
+-158
+Let h(f) = 4*f**2 + 987*f - 39446. Calculate h(35).
+-1
+Let l(o) = 3*o**3 + 313*o**2 + 99*o - 420. Calculate l(-104).
+100
+Let q(m) = 4705*m + 159996. Give q(-34).
+26
+Let v(l) = -l**3 + 58*l**2 - 209*l - 359. Calculate v(54).
+19
+Let g(x) = 1314*x + 95948. Calculate g(-73).
+26
+Let t(k) = 122*k - 2636. Calculate t(19).
+-318
+Let v(o) = -8125*o - 81250. Give v(-10).
+0
+Let x(p) = 4197*p + 96627. Calculate x(-23).
+96

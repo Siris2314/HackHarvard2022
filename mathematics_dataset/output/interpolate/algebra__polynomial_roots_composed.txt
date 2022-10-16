@@ -1,0 +1,20 @@
+Suppose -262*f + 28*f**2 - 86*f + 28*f**2 - 1098 - 59*f**2 - 207*f = 0. What is f?
+-183, -2
+Suppose -5*r + 528 = -517. Let b be (-38)/r - 4/(-22). Factor b*l**4 - l**5 - 3*l**4 + 47*l**3 - 49*l**3.
+-l**3*(l + 1)*(l + 2)
+Suppose -17 - 31 = 2*k. Let a(i) = 3*i**2 - 2*i. Let l(c) be the third derivative of -c**5/4 + 3*c**4/8 - 6*c**2. Let u(d) = k*a(d) - 5*l(d). Factor u(r).
+3*r*(r + 1)
+Let -3*k**5 - 146*k**3 - 54*k**2 + 10*k**4 + 27*k - 4*k**4 + 170*k**3 = 0. Calculate k.
+-3, 0, 1, 3
+Let s(k) be the second derivative of k**4/66 + 60*k**3/11 - 181*k**2/11 - 5*k + 48. Factor s(y).
+2*(y - 1)*(y + 181)/11
+Suppose -l + i = -3, -18 = -2*l + 5*i - 3. Suppose 0 = -4*f + 60 - 52. Factor -1/6*d**f + 0*d + l.
+-d**2/6
+Let f = -200099/4 + 50025. Let -3/4*w + 1/2*w**3 + 1/4 - 3/4*w**4 + 1/2*w**2 + f*w**5 = 0. Calculate w.
+-1, 1
+Suppose 0 = -5*p - 2*t + 26, 74 = -5*t + 114. Determine a, given that -1/3*a**p + 0 + a = 0.
+0, 3
+Let a = -85232 + 426403/5. Determine w so that -54/5*w + 3/5*w**2 + a = 0.
+9
+Let r(w) be the third derivative of -w**8/2352 + 6*w**7/245 - 383*w**6/840 + 247*w**5/105 + 16*w**4/7 - 512*w**3/21 - 1326*w**2. Suppose r(c) = 0. What is c?
+-1, 1, 4, 16

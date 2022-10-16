@@ -1,0 +1,6 @@
+Differentiate -13703*w*x + 349413*w + 3*x**2 wrt x.
+-13703*w + 6*x
+What is the third derivative of -23*d**6*q**2 + 182*d**6 - 1328*d**2 + 18*d*q**2 wrt d?
+-2760*d**3*q**2 + 21840*d**3
+What is the first derivative of -2682*p**2 - 18*p - 72056?
+-5364*p - 18

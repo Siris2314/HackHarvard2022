@@ -1,0 +1,6 @@
+Suppose 20 = 8*k - 4*k. Suppose -k*s + s + 12 = 0. What is the biggest value in 0.2, 15, s?
+15
+Let i = 3/2 - 7/6. Let k be 5/(-2)*(-9)/(-60). Which is the second biggest value?  (a) k  (b) i  (c) 0.2
+c
+Let t = 29 + -29.1. What is the smallest value in 10, t, 0.5?
+t

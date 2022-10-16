@@ -1,0 +1,6 @@
+Let r = -361 - -360.5. Let i = -0.06 + 0.14. Which is the biggest value?  (a) -4  (b) 2/5  (c) i  (d) r
+b
+Let t = 64 + -68. What is the third biggest value in -6, 0.1, 2/21, t?
+t
+Let q = -1 + 0.8. Let j = q - -1.4. Let v = -0.2 + j. What is the third smallest value in -3, v, -2?
+v

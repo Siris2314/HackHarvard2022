@@ -1,0 +1,6 @@
+Let d(i) = -8*i**3 - 8*i**2 - 5. Let u(k) = -7*k**3 - 7*k**2. Let a(z) = -1 + 0 + 0. Let f(x) = -4*a(x) - u(x). What is 5*d(t) + 6*f(t)?
+2*t**3 + 2*t**2 - 1
+Let x(h) = 5*h - 3*h - h - h**2 - 2 - 2*h. Let r be 20 + (2 - (-1 - -1)). Let u(a) = 6*a**2 + 6*a + 11. Determine r*x(b) + 4*u(b).
+2*b**2 + 2*b
+Let p = -18 + 13. Let c(j) = -4*j**2 - 4*j - 7. Let f(g) = 5*g**2 + 5*g + 8. Determine p*f(r) - 6*c(r).
+-r**2 - r + 2

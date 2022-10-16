@@ -1,0 +1,6 @@
+Solve 0 = -3330*o + 3328*o - 26 for o.
+-13
+Solve 1100*z + 42 = 1079*z for z.
+-2
+Solve -7*l - 6*l - 95 = 6*l for l.
+-5

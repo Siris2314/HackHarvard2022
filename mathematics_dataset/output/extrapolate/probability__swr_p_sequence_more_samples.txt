@@ -1,0 +1,20 @@
+Calculate prob of sequence ccbct when five letters picked without replacement from {t: 7, c: 3, b: 2}.
+7/7920
+What is prob of sequence bbovo when five letters picked without replacement from vvvvbbovbbvvvvvovvvv?
+7/38760
+Five letters picked without replacement from {u: 5, q: 6, f: 7}. Give prob of sequence fffuf.
+5/1224
+What is prob of sequence ttttt when five letters picked without replacement from ttttt?
+1
+Five letters picked without replacement from {d: 2, k: 1, f: 2, w: 2, g: 5}. Give prob of sequence ddfww.
+1/11880
+Five letters picked without replacement from {w: 1, a: 2, r: 8}. What is prob of sequence rwarr?
+2/165
+Calculate prob of sequence lsasv when five letters picked without replacement from {v: 1, a: 4, s: 5, c: 1, l: 5}.
+5/6552
+Calculate prob of sequence eceec when five letters picked without replacement from {e: 5, c: 7, u: 7}.
+7/3876
+Five letters picked without replacement from wwiwwwwwwwwiiw. Give prob of sequence wwiiw.
+9/364
+What is prob of sequence gdwzw when five letters picked without replacement from {d: 1, z: 2, g: 1, w: 3}?
+1/210

@@ -1,0 +1,6 @@
+Let v(q) = 104 - 21*q. Let x be v(-6). Suppose -2*r = 4*t - 208, -r = -4*t - 16 + x. What is the remainder when 264 is divided by t?
+52
+Suppose 4*q - 5*m - 33 - 113 = 0, 197 = 5*q + m. Suppose 5*h + 0*h - 764 = -4*s, 0 = h. Calculate the remainder when s is divided by q.
+35
+Suppose 0 = 92*z - 56*z - 23472. What is the remainder when z is divided by 55?
+47

@@ -1,0 +1,6 @@
+Let c(v) = 2*v. Let r be c(4). Let q = 5 - r. Let z(s) be the second derivative of s**5/20 + s**4/3 + s**3/2 - s**2 - s. Calculate z(q).
+-2
+Let j(u) = u**3 - 2*u**2 - u - 3. Let w be (21/(-14))/(1/(-2)). Give j(w).
+3
+Suppose 5*n + 3*g = 5*g - 1, 3*n + 3*g = -9. Let s(f) = 7 - 3*f. Let q(d) = 8 - 3*d. Let x(r) = -6*q(r) + 7*s(r). Determine x(n).
+4

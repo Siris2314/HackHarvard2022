@@ -1,0 +1,6 @@
+Calculate the remainder when 384 is divided by 11.
+10
+Calculate the remainder when 601 is divided by 200.
+1
+Calculate the remainder when 1871 is divided by 930.
+11

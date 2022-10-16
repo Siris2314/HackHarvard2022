@@ -1,0 +1,20 @@
+Let v = -285 - -703. List the prime factors of v.
+2, 11, 19
+Let l = -65 - -65. Let a(q) = -q**3 - 2*q + 118. What are the prime factors of a(l)?
+2, 59
+Let c = 4 - 105. Let g = 240 + c. What are the prime factors of g?
+139
+Suppose -4*o = 5*p + 56, -o - 4*o = 4*p + 61. Let n = o - -63. What are the prime factors of (-12)/n - ((-2172)/27)/2?
+2, 5
+Let w be (-6)/1*(0 - 1 - -2). What are the prime factors of 96 + (3 - (w + 4))?
+101
+Suppose 276 = 35*j - 31*j. List the prime factors of ((-1206)/8)/(j/(-184)).
+2, 3, 67
+Let f = -184 - -33. Let o = f - -312. List the prime factors of o.
+7, 23
+Suppose 0 = 3*d - 4*t + 33 - 7, -3*t = 4*d + 43. Suppose -m = 2*m - 12. Let a = m - d. What are the prime factors of a?
+2, 7
+Suppose f + 29 = 2*i, -f - 2 = 1. Let l = i + 230. What are the prime factors of l?
+3
+What are the prime factors of (3985/25 - 5)/(2/20)?
+2, 193

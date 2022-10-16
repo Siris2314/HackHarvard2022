@@ -1,0 +1,20 @@
+Calculate prob of sequence iqqo when four letters picked without replacement from sqissqsqoiissqosoqso.
+2/969
+Two letters picked without replacement from {y: 2, k: 1, v: 6, a: 1, l: 3, x: 4}. What is prob of sequence lv?
+9/136
+Two letters picked without replacement from babbauanunan. What is prob of sequence ba?
+1/11
+Calculate prob of sequence zzz when three letters picked without replacement from zkzkzkkzkkkkkkzzz.
+7/136
+Three letters picked without replacement from {y: 2, k: 1, g: 9, p: 1, a: 1, b: 3}. What is prob of sequence bya?
+1/680
+Three letters picked without replacement from ieaafliabfb. Give prob of sequence bie.
+2/495
+What is prob of sequence dah when three letters picked without replacement from {a: 6, d: 3, h: 1}?
+1/40
+What is prob of sequence wqw when three letters picked without replacement from {q: 3, w: 6, v: 3, o: 4}?
+3/112
+Four letters picked without replacement from fftofottobtobotb. What is prob of sequence bbbo?
+1/1456
+Two letters picked without replacement from deelsdlslnd. Give prob of sequence ll.
+3/55

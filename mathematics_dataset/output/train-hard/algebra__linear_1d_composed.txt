@@ -1,0 +1,6 @@
+Let g be 6/(1/(-4)*-6). Let s be -10 + (-4 - -5)*-3. Let i be 72/(-36) - (s - -1). Solve -8*z = -i*z - g for z.
+-2
+Suppose -2450 - 343 = -133*b. Solve -7*a + b = -0*a for a.
+3
+Let t(p) = p**2 + 41*p + 1281. Let z be t(-62). Solve 3*c = z - 2574 for c.
+3

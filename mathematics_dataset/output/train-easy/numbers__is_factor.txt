@@ -1,0 +1,6 @@
+Is 9 a factor of 1842?
+False
+Is 1449 a multiple of 161?
+True
+Is 37 a factor of 49806?
+False

@@ -1,0 +1,20 @@
+Is 881650 a multiple of 275?
+True
+Does 9 divide 65521521?
+True
+Is 22878492 a multiple of 52?
+True
+Is 48 a factor of 3855888?
+True
+Is 23350616 a multiple of 869?
+False
+Is 413 a factor of 10383646?
+True
+Is 54208563 a multiple of 110?
+False
+Is 1414 a factor of 9015351?
+False
+Does 709 divide 4024034?
+False
+Is 28316790 a multiple of 813?
+True

@@ -1,0 +1,6 @@
+Let m = 0.6 + -0.7. Let f = m + 2.7. Let n = f + -2.5999838. Round n to six dps.
+0.000016
+Suppose 4*f + o = -2*o - 941, -3*o - 9 = 0. Let n = -369 - f. What is n rounded to the nearest ten?
+-140
+Let d(r) = r**3 - 7*r**2 + 6*r. Let k be d(6). Let p be k - -3 - (8 + -8). Let w be (50/(-4))/(p/528000). What is w rounded to the nearest one million?
+-2000000

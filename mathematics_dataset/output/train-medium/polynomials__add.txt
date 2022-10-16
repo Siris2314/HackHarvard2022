@@ -1,0 +1,6 @@
+Let c(m) be the first derivative of -13 + 4*m + 2*m**2 + 5 - 7*m**3 - 1 + 5*m**3. Let s(h) = 6*h**2 - 3*h - 3. Calculate 3*c(v) + 4*s(v).
+6*v**2
+Suppose -3*u = -0*u + 9, -3*c = -5*u - 12. Let j(x) = 0*x + x - 6*x - x**3 - 4 + 4*x. Let b(z) = -z - 1. What is c*j(q) + 3*b(q)?
+q**3 - 2*q + 1
+Let c(z) be the third derivative of 25*z**2 + 0*z - 1/2*z**3 + 0 + 1/24*z**4. Let j(t) = t - 2. Calculate -3*c(y) + 4*j(y).
+y + 1

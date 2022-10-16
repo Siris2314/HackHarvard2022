@@ -1,0 +1,6 @@
+Three letters picked without replacement from {d: 3, t: 4, b: 4, f: 3}. What is prob of sequence tff?
+1/91
+Three letters picked without replacement from xbszzzxbjbbs. What is prob of sequence szs?
+1/220
+Two letters picked without replacement from {e: 1, a: 2, c: 6, f: 8, i: 1, n: 2}. Give prob of sequence cn.
+3/95

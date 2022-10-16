@@ -1,0 +1,6 @@
+Collect the terms in -1 + 12049*a - 12049*a + 5*a**3.
+5*a**3 - 1
+Collect the terms in -2567*m**3 - 21*m**2 + 3*m**2 + 9*m**2 + 10*m**2.
+-2567*m**3 + m**2
+Collect the terms in 495*q**3 + 4949*q - 4949*q.
+495*q**3

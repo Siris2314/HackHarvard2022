@@ -1,0 +1,6 @@
+What is the hundreds digit of 534?
+5
+What is the tens digit of 2784?
+8
+What is the thousands digit of 17274?
+7

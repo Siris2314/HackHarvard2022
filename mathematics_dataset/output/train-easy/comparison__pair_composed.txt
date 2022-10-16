@@ -1,0 +1,6 @@
+Let p = -1795/7 + 257. Let d = 2 + -3. Which is greater: p or d?
+p
+Let y = -13 - -18. Suppose 5*v = -2*f, -3*v + 1 + 10 = -f. Suppose -3*m = -y*m - v. Which is smaller: m or -3?
+-3
+Let h be 25932/75*(-10)/12. Let p = -288 - h. Which is smaller: 1 or p?
+p

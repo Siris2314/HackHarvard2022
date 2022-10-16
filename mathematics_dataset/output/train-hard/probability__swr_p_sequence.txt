@@ -1,0 +1,6 @@
+Four letters picked without replacement from {l: 6, r: 1, i: 1, z: 5, h: 1}. What is prob of sequence hzzl?
+5/1001
+Calculate prob of sequence gd when two letters picked without replacement from {k: 1, g: 5, d: 1, p: 10}.
+5/272
+Three letters picked without replacement from jxiwyxz. What is prob of sequence iyz?
+1/210

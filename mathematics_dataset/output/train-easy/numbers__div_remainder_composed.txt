@@ -1,0 +1,6 @@
+Suppose -3*d + 68 = 8. Let q(z) = -z**3 + 8*z**2 - 2*z - 1. Calculate the remainder when q(3) is divided by d.
+18
+Let v(a) = -a**2 + 5*a - 4. Let q = 5 - 1. Calculate the remainder when q is divided by v(2).
+0
+Let m(x) = x**2 + 3*x - 4. Let f be m(-4). Suppose w = -f*w + 16. What is the remainder when w is divided by 1*(-2 + (9 - 1))?
+4

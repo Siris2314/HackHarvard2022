@@ -1,0 +1,6 @@
+Let c(o) be the third derivative of o**7/840 - 7*o**6/180 + o**5/4 + 23*o**2. Let p(f) be the third derivative of c(f). What is the units digit of p(16)?
+8
+Suppose -4*v - 3*k = -27162, -5*v - 2*k + 11745 + 22211 = 0. What is the tens digit of v?
+9
+Let m = 815 + 10257. What is the ten thousands digit of m?
+1

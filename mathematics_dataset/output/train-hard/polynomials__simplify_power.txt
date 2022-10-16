@@ -1,0 +1,6 @@
+Simplify ((j**(2/11)*j/j**(-3))/(j/(j/j**(-1)))**(-5/2))/((j*j/(j/j**2*j)*j*j/(j*j*j**(-2/11)*j))/(j**(-1))**(-2/17)) assuming j is positive.
+j**(21/34)
+Simplify ((m**1/(m**(9/4)/m))/(m**(2/17)/((m**(-5)*m)/m)))**(1/76) assuming m is positive.
+m**(-365/5168)
+Simplify ((b/((b**2*b)/b))**(-30)/(b**(-3)*b)**(-16/7))**(-31) assuming b is positive.
+b**(-5518/7)

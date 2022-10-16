@@ -1,0 +1,6 @@
+Let s(c) = 3*c**2 - 2*c. What is the smallest common multiple of 13 and s(2)?
+104
+Let k = 91975662137/7100527 - 1/2028722. Let g = k + -12946. Calculate the common denominator of g and -9/8.
+56
+Let p(o) = o**2 - 10*o + 11. What is the smallest common multiple of 64 and p(11)?
+704

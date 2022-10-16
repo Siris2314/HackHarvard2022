@@ -1,0 +1,6 @@
+Let r = 8.049 - 11.049. Let h = 2.74696281 - -0.2530362. Let t = h + r. What is t rounded to seven dps?
+-0.000001
+Let t be (-9)/6*((-94)/6 + 1). Suppose 0 = -t*v + 17*v - 2530. Round v to the nearest 100.
+-500
+Let u(q) be the second derivative of 2075*q**4/6 + q**3/6 - q**2 + 64*q + 2. Let n be u(2). Round n to the nearest ten thousand.
+20000

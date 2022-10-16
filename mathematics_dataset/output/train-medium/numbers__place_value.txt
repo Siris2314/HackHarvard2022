@@ -1,0 +1,6 @@
+What is the thousands digit of 994521?
+4
+What is the tens digit of 442364?
+6
+What is the hundred thousands digit of 2578447?
+5

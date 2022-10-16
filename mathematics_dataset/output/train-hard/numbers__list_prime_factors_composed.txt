@@ -1,0 +1,6 @@
+Let m be ((-78)/(-15))/(2/10). Suppose -5*q + p + 4*p = 10, -5*p = 3*q - m. What are the prime factors of (612/24)/(1/q)?
+3, 17
+Suppose 0 = 4*o + 4*i + 36 + 52, 0 = -2*i - 4. Let f(n) = -n**2 - 25*n + 8. List the prime factors of f(o).
+2, 3
+Suppose -76*h - 73003 = -808367 - 214028. List the prime factors of h.
+2, 3, 347

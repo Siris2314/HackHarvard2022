@@ -1,0 +1,6 @@
+Calculate the common denominator of 73/12 and 19/9986122.
+59916732
+What is the lowest common multiple of 690336 and 54144?
+2761344
+Find the common denominator of 27/10 and 55/6261572.
+31307860

@@ -1,0 +1,6 @@
+Find the second derivative of -p**5 + 88*p**4 + 5936*p**2 + 3108859*p wrt p.
+-20*p**3 + 1056*p**2 + 11872
+What is the third derivative of -30686153*g**4 - 8447658*g**2 wrt g?
+-736467672*g
+Find the second derivative of 3020*x**4 + 110*x**3 - x**2 - 2*x + 2407761 wrt x.
+36240*x**2 + 660*x - 2

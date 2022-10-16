@@ -1,0 +1,6 @@
+Let k be 8/(-10) + (-6)/15. Let l = -7/10 - k. Let v be (63/84)/(9 + (-195)/26). Do v and l have the same value?
+True
+Let l be 312/52 + (-2 - 134228/33558). Which is smaller: l or -1?
+-1
+Let q(s) = -s**3 - 6*s**2 + 13*s + 25. Suppose 5*p = 3*v + 5 + 29, -28 = 3*v - 2*p. Let b be q(v). Is b > 3/5?
+True

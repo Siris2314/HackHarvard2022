@@ -1,0 +1,6 @@
+Let b(p) = -p**2 + 12*p + 4. Calculate b(10).
+24
+Let n(u) = 2*u + 36. What is n(-14)?
+8
+Let c(v) = -v**3 + 9*v**2 - 11*v + 10. Give c(7).
+31

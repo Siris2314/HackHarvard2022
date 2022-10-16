@@ -1,0 +1,6 @@
+Let g = 0.13791 - 0.01791. Which is the fourth biggest value?  (a) -3  (b) 10  (c) g  (d) 0.1  (e) 2
+d
+Let c = -18862.95 - -18863. What is the smallest value in -310, -1/4, c?
+-310
+Let p(r) = r**2 + 43*r + 232. Let n be p(-6). Let v be 0 + -1 + (0 - 1). Let y be v/(-4) - (-9)/6. Which is the second biggest value?  (a) y  (b) 1  (c) n
+a

@@ -1,0 +1,6 @@
+Let y(m) = -m**3 + 12*m**2 + 12*m + 13. Let o be y(13). Solve -5*l - 32 + 52 = o for l.
+4
+Suppose -3*t = -2*g + g - 3, 2*t + 2*g + 6 = 0. Suppose t = -4*q - 0*q. Solve 2*x + 2 - 8 = q for x.
+3
+Let t = 4 + -1. Let j = t + 2. Let l(r) = 3*r**3 + r**2 + r - 1. Let q be l(1). Solve -j + 25 = -q*b for b.
+-5

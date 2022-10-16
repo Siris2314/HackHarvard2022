@@ -1,0 +1,20 @@
+Let r(f) = 7546*f. Let i(c) = 5*c - 28. Calculate r(i(m)).
+37730*m - 211288
+Let b(x) = 316840 - 10*x. Let v(l) = 2*l**2. Determine b(v(o)).
+316840 - 20*o**2
+Let t(b) = -4*b. Let x = 35 - 33. Let v(z) = -z**2 + z + 4. Let d be v(x). Let f(r) = d*r**2 - 19 + 19. Give f(t(i)).
+32*i**2
+Let f(j) be the third derivative of 0*j + 3*j**2 + 1/8*j**4 + 0 + 0*j**3. Let u(b) = 3*b. Give f(u(a)).
+9*a
+Let p(t) = -5*t - 8016057 + 8016057. Let x(d) = 7*d - 6. Let u(v) = 5 - 7*v. Let n(a) = -6*u(a) - 5*x(a). What is p(n(s))?
+-35*s
+Let d(f) = -3*f - 18. Let b(m) = 6. Let u(z) = -3*b(z) - d(z). Let o(k) = 2*k - 8. Let h be o(6). Let p(q) = h*q**2 + 0*q**2 + 2*q**2. What is u(p(n))?
+18*n**2
+Let n(x) be the first derivative of 7*x**4/4 - x**2/2 + 8*x - 22. Let g(f) be the second derivative of n(f). Let w(o) = 3*o. What is g(w(v))?
+126*v
+Let b(y) = 11*y - 3. Let v(h) = 1. Let s(l) = 3. Let g(a) = 2*s(a) - 7*v(a). Let c(f) = -b(f) + 2*g(f). Let w(d) = -d. What is c(w(j))?
+11*j + 1
+Let i(m) = 3*m**2. Let n(p) be the third derivative of -p**4/12 + p**3 - 236*p**2 + 2*p. Give i(n(a)).
+12*a**2 - 72*a + 108
+Let k(l) be the first derivative of l**4/3 - 64*l - 33. Let d(r) be the first derivative of k(r). Let v(s) = -36*s. Give v(d(g)).
+-144*g**2

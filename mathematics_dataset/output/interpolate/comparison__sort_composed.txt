@@ -1,0 +1,20 @@
+Let n(k) = k - 11. Let g be n(9). Let j(v) = v**2 - 6*v + 3. Let u be j(6). Suppose 0 = -s - 0 + u. Sort -9, s, g.
+-9, g, s
+Let a(f) = f**2 - 6*f - 3. Let s be a(6). Suppose 6*o - 26 = 51*o - 116. Put o, s, 1 in descending order.
+o, 1, s
+Let m be 7*5/(-350)*-10. Put -0.2, -4/21, m in ascending order.
+-0.2, -4/21, m
+Let f be (-10)/(-35)*((-95)/(-10) + -6). Put 3, 21, -3, f in ascending order.
+-3, f, 3, 21
+Let j = 31.11 - -1.65. Let a = -215 - -182. Let q = j + a. Sort q, -1, -3.
+-3, -1, q
+Suppose -k + 2*p = -214, 3*k - 5*p - 424 = k. Let t be 1/((42/k)/7). Put -2, t, 1 in decreasing order.
+t, 1, -2
+Let q be -2 - (77/(-14) - (-3 - 0)). Let i = -9 - -8.3. Let z = 1.1 + i. Sort -0.3, -0.4, z, q in increasing order.
+-0.4, -0.3, z, q
+Let c = 243 + -131. Let q = 111.6 - c. Sort -45, q, 2 in ascending order.
+-45, q, 2
+Let z = -92 - -242. Let m = -150 + z. Put -1, 2, 13, m in ascending order.
+-1, m, 2, 13
+Let j be (-2)/(-13) - (-11)/(1430/(-20)). Suppose -17 = -17*y - j. Put -9, y, 5, -2 in decreasing order.
+5, y, -2, -9

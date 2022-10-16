@@ -1,0 +1,6 @@
+Let c(a) = -a**3 + 4*a**2 + 6*a + 2. Let w(d) = d**2 + d + 3. Let q be w(-2). Suppose -y + 21 = q*t, -4*y = -0*t + t + 11. What is the units digit of c(t)?
+7
+Suppose q + 2*b - 43 = 0, 4 = -2*b + 2. What is the units digit of q?
+5
+Let c = 664 + -239. What is the hundreds digit of c?
+4

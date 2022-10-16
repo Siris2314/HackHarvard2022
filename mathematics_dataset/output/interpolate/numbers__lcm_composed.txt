@@ -1,0 +1,20 @@
+Let h(x) = x**3 - 10*x**2 + 5*x + 8. Let y be h(9). Find the common denominator of (-21)/y*(-158)/(-18) and 29/16.
+48
+Let r = 9952106/259 - 38425. Calculate the common denominator of 5/518 and r.
+518
+Let c = -3938 + 4838. What is the smallest common multiple of 900 and c?
+900
+Let l = -3036 - -3053. Calculate the least common multiple of l and 3.
+51
+Suppose -2*o - 12 = -4*w, -5 - 7 = -3*w. Suppose 2*g - 5*s + 0*s - 115 = 0, -o*s - 55 = -g. What is the least common multiple of 30 and g?
+90
+Let g(d) be the second derivative of -d**4/12 - 29*d**3/6 - 19*d**2/2 + 72*d. Calculate the lowest common multiple of 35 and g(-27).
+35
+Suppose 3*m - 12 = 4*t + 7*m, -2*m = -2*t - 10. Let i be (-76)/(-112) + t + 3. Let l = 61/28 + i. Find the common denominator of l and -56/9.
+63
+Let d be 1 + -1 - -1 - 122313419/1802. Let w = 67876 + d. What is the common denominator of w and -41/20?
+1060
+Let c be 1 + 148514/168 + 8/14. Let k = c - 2672/3. Calculate the common denominator of k and 125/18.
+36
+Suppose 0*i - 3*i + 12 = 0. Let f be -2 + 5 + -1 + -8. What is the lowest common multiple of i and (2/f)/((-5)/60)?
+4

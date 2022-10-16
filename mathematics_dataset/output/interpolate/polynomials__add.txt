@@ -1,0 +1,20 @@
+Let s(n) = 4 - 5*n. Let m = -1712 - -1709. Let p(z) = 4 - 6*z. Calculate m*p(c) + 4*s(c).
+4 - 2*c
+Let d(q) = -20*q**2 - q - 10. Let v(b) = -42*b**2 - 2*b - 23. Give 9*d(z) - 4*v(z).
+-12*z**2 - z + 2
+Let l(v) = 18 - 265*v. Let b(f) = 5502 - 81089*f. Calculate -6*b(a) + 1834*l(a).
+524*a
+Let w(c) = -331*c**3 - 2*c**2 - 2*c + 2. Let r(j) = 2981*j**3 + 19*j**2 + 19*j - 19. What is 6*r(f) + 57*w(f)?
+-981*f**3
+Let y(z) = -z**2 - 4*z - 15. Let n be 5/(-3) + 1 + 5*(-444)/180. Let f(s) = 2*s**2 + 9*s + 30. Calculate n*y(p) - 6*f(p).
+p**2 - 2*p + 15
+Let u(c) = -19*c**3 - 31*c**2 - c + 5. Let b(v) = -2*v**3 - v**2 + 1. What is -6*b(r) + u(r)?
+-7*r**3 - 25*r**2 - r - 1
+Let l be 1/(6/456*4). Suppose 55 - l = -6*o. Let r(s) = 13*s**2 - 6*s - 6. Let n(t) = t**2 - t - 1. What is o*n(v) + r(v)?
+7*v**2
+Let m(v) = v**3 + 4*v**2 + 2*v. Let s(w) = -3*w + 2*w**2 - 6*w**2 - 2*w**3 - 3*w**2. Suppose 0 = -3*z - l - 15, 5*l + 186 = -3*z + 159. What is z*s(r) - 7*m(r)?
+r**3 - 2*r
+Let b = -213 - -213. Suppose b = -4*z + 4*u + 44, -2*z + 0*u = 4*u + 8. Let l(d) = 1. Let m(f) = f - 9. What is z*l(x) + m(x)?
+x - 3
+Let n(f) = -4*f**2 + 19*f + 18. Let t(v) = 5*v**2 - 23*v - 17. Determine -7*n(h) - 6*t(h).
+-2*h**2 + 5*h - 24

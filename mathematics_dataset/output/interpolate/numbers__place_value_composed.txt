@@ -1,0 +1,20 @@
+Let x be 4 - -12*((-13)/4 + 0). What is the tens digit of (92043/x)/(-9) + (-1)/5?
+9
+Let z be (11/(-2))/11*(-3 + 1). Suppose 489 = 2*u - z. What is the tens digit of u?
+4
+Let v(s) = -222*s**3 - s - 3. Let h(m) = -m**3 - 3*m**2 - m. Let c be h(-1). What is the units digit of v(c)?
+0
+Suppose -6*r = -7*r + 463. Let h = 858 - r. What is the hundreds digit of h?
+3
+Let m(w) = w**3 + 12*w**2 + 16*w + 2. Let u(y) = -2*y**2 + 9*y - 3. Let b be u(5). What is the units digit of m(b)?
+0
+Let n(g) = -g**2 - 2*g + 3. Let m be n(0). Suppose -m*i = -6, 5*i = 3*u - 4 - 4. Let y = u + 1. What is the units digit of y?
+7
+Let y(m) = 3 + 3*m - 11*m + 10*m. What is the tens digit of y(6)?
+1
+Suppose 2*p + 2831 = 3*x, -242*x - 1884 = -244*x + 2*p. What is the hundreds digit of x?
+9
+Suppose 14*r - 45 = 11*r. Suppose -l = -4*l - r. What is the units digit of 9 + (l - 16/(-4))?
+8
+Suppose 4*a = 4*p + 13696, 394*p - 398*p + 13664 = 4*a. What is the thousands digit of a?
+3

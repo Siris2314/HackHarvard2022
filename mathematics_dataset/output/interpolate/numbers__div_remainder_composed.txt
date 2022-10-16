@@ -1,0 +1,20 @@
+Let s be (-56)/(-8) - 90 - -2*2. What is the remainder when s/(-2) - 36/(-24) is divided by 8?
+1
+Let a(y) = -5*y - 57. Let c be a(-12). What is the remainder when 13 is divided by (-1)/c + (-32)/(-6)?
+3
+Suppose -2*z + 16*z + 84 - 224 = 0. Calculate the remainder when 15 is divided by z.
+5
+What is the remainder when 87 is divided by (16/3)/(-22*(-21)/1386)?
+7
+Suppose 2*o - 68 + 58 = 0. Suppose -x - 6*x = -161. Calculate the remainder when x is divided by o.
+3
+Suppose -v + 4*v - 15 = 0, -5*k + 190 = 2*v. Calculate the remainder when 3383 is divided by k.
+35
+Suppose 354 + 630 = 59*y - 491. Calculate the remainder when 2/8 + (-2073)/(-12) is divided by y.
+23
+Let a(n) = -n**2 + 80*n - 1332. Let r(p) = -22*p**3 - p**2 - 2*p - 2. Calculate the remainder when r(-1) is divided by a(56).
+9
+Suppose 14*i - 1542 - 922 = 0. Let d(j) = -2*j**3 - j**2. What is the remainder when i is divided by d(-2)?
+8
+Let i(z) = 18*z**2 + 18*z - 7. Let m be i(3). Let o = m + -182. What is the remainder when 241 is divided by o?
+25

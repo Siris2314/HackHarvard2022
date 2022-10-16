@@ -1,0 +1,6 @@
+What is prob of picking 3 f when three letters picked without replacement from qqfqttfyfttft?
+2/143
+Three letters picked without replacement from {t: 1, p: 3, h: 13, s: 3}. What is prob of picking 1 h, 1 t and 1 p?
+13/380
+Calculate prob of picking 2 t when two letters picked without replacement from tjtrrrtsgggmm.
+1/26

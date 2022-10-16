@@ -1,0 +1,6 @@
+Calculate the remainder when 5460 is divided by 46.
+32
+What is the remainder when 10891 is divided by 8?
+3
+What is the remainder when 15285 is divided by 5081?
+42

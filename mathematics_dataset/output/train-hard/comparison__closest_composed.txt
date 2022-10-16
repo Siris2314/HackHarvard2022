@@ -1,0 +1,6 @@
+Let f = 0.2695 + -544.0695. Let d = 544 + f. What is the closest to -6 in 5, -10, d, 0.5?
+-10
+Let j be (-6)/(-15) - (-871)/(-65) - -7. Which is the nearest to 2?  (a) 1/4  (b) j  (c) -36
+a
+Let i = 2001 + -2001.1. What is the closest to -1 in i, -5, 105?
+i

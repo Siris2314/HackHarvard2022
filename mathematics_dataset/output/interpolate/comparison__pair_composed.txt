@@ -1,0 +1,20 @@
+Let d = -1094 + 175. Is d <= -919?
+True
+Let b(m) = 2*m + 38. Let c(l) = 8*l + 151. Let j = -9 + 7. Let n(x) = j*c(x) + 9*b(x). Let u be n(-20). Do u and 7/9 have different values?
+True
+Let k = -6095 - -6096. Let p = -0.67 + -0.23. Let a = p - -1.03. Is k bigger than a?
+True
+Let i = -9712/315 + 278/9. Let a = -2330 + 2331. Which is smaller: a or i?
+i
+Suppose 24 - 90 = -2*k. Let p = k - 35. Let n = p - -21. Which is greater: n or 1?
+n
+Let h be 3/(-5) - (-4)/(-10). Let d be 5 + (-4 - -2) + 22. Let s be (-5)/d*-5*10. Does s = h?
+False
+Suppose 23*d + 15355 + 32784 = 0. Is d equal to -2092?
+False
+Let u be 0 - 4 - -7 - -125. Let b be (u/48)/((-74)/(-6)). Let d = b + 166/259. Which is smaller: 1 or d?
+d
+Let m(d) = 18 - d. Let a be m(19). Let l = -77 + 76.981. Is a >= l?
+False
+Let z = 1773 - 3175. Is -1403 at least as big as z?
+False

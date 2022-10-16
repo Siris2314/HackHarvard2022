@@ -1,0 +1,6 @@
+Let z(x) = -6*x - 22. Let m be z(-4). Solve y = m*y - 5 for y.
+5
+Suppose -12 = -15*j + 12*j. Solve 5*i + 11 + j = 0 for i.
+-3
+Let n = 8 - 8. Solve -16 + n = -4*l for l.
+4

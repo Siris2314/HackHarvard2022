@@ -1,0 +1,20 @@
+Are -18221561/2 and -9110780 nonequal?
+True
+Which is greater: -14505663 or -14505661?
+-14505661
+Is 7285195 greater than 7285194?
+True
+Which is smaller: 0 or -1803/5746?
+-1803/5746
+Which is smaller: 30790 or 30355?
+30355
+Which is greater: -945220/39 or -24235?
+-24235
+Is -857/12020 at most as big as 0?
+True
+Which is bigger: 0 or -41/233779?
+0
+Is 0 != -529/4841?
+True
+Are 2/139849655 and 0 equal?
+False

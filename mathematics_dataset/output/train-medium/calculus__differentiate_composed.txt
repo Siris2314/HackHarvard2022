@@ -1,0 +1,6 @@
+Find the third derivative of -49153*o**6 + 119*o**2 + 49335*o**6 + 178*o**2 wrt o.
+21840*o**3
+Let o(h) = 49*h**3 + 26*h**2 + 4*h - 6. Let v(d) = d**2 - d + 2. Let y(m) = -o(m) - 3*v(m). What is the third derivative of y(n) wrt n?
+-294
+Let b = 20 + -13. Suppose -3*u + 4*g = -b, 2*g - 29 = -9*u + 4*u. What is the third derivative of 0 - j**2 + 0 - u*j**4 + 6*j**2 wrt j?
+-120*j

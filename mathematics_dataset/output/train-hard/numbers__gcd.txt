@@ -1,0 +1,6 @@
+Calculate the highest common factor of 11105 and 265.
+5
+What is the highest common factor of 480 and 120221760?
+480
+Calculate the highest common factor of 399028139 and 10063.
+10063

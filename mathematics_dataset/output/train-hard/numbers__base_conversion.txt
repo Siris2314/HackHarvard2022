@@ -1,0 +1,6 @@
+What is -137b6b (base 13) in base 3?
+-220002121210
+What is -95b610 (base 13) in base 11?
+-1a87929
+17a37 (base 14) to base 2
+1110100011110001

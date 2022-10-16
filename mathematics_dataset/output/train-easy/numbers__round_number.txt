@@ -1,0 +1,6 @@
+What is 48990 rounded to the nearest ten thousand?
+50000
+What is 3835 rounded to the nearest one hundred?
+3800
+What is -1.11819 rounded to two decimal places?
+-1.12

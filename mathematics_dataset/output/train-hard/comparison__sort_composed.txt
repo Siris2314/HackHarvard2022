@@ -1,0 +1,6 @@
+Let b = -271 - -245. Let f = -94 - b. Put -5, f, -4 in descending order.
+-4, -5, f
+Let p be ((-46)/(-207) - (-116)/126) + 15/(-15). Let g = -2 + 3. Let a = g + 4. Put p, -0.03, a in decreasing order.
+a, p, -0.03
+Let x = -60251/2 + 30127. Sort 0, x, -0.1, 10, 2/23.
+-0.1, 0, 2/23, x, 10

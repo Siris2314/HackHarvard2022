@@ -1,0 +1,6 @@
+Calculate the common denominator of 137/105492 and 75/2.
+105492
+Calculate the lowest common multiple of 3260 and 5868.
+29340
+Find the common denominator of -187/6300 and -23/100.
+6300

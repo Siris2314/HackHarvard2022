@@ -1,0 +1,6 @@
+Suppose 0 = -31*h + 34*h - 18. Let t(a) = a**2 - 2*a - 4. Let v be t(3). Let k = v + 4. Calculate the remainder when h is divided by k.
+0
+Suppose 119 = -7*z + 196. Calculate the remainder when 52 is divided by z.
+8
+Let x = 64 + -38. Let t = 28 - x. Suppose -2*d + t*p = -82, 4*p + 54 = 2*d - 20. Calculate the remainder when d is divided by 12.
+9

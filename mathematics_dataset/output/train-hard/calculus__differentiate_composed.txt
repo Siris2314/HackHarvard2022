@@ -1,0 +1,6 @@
+Let o(p) be the third derivative of 29*p**7/105 - 17*p**6/60 + p**4/8 + 419*p**3/6 + 2515*p**2. What is the second derivative of o(c) wrt c?
+696*c**2 - 204*c
+Let i(s) be the second derivative of 1471*s**6/10 + 1513*s**4/6 + 690*s + 3. What is the third derivative of i(q) wrt q?
+105912*q
+Let b(k) be the second derivative of 23*k**5/20 - 6*k**4 + 87*k**3/2 - 3*k**2/2 + 6670*k. Find the second derivative of b(i) wrt i.
+138*i - 144

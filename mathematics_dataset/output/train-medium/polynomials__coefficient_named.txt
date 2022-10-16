@@ -1,0 +1,6 @@
+Rearrange 36*l - 373 + 373 + 4*l - 2*l - l + 3*l - 2*l + l + (0 + 2 - 3)*(0*l - l + 0*l) to v + a*l and give a.
+40
+Rearrange -h**2 + 2*h - 2*h + (4 - 2 - 1)*(2*h**2 + 0*h**2 + 0*h**2) + 40*h**2 + 46*h**2 + 9*h**2 - 5*h**2 + h**2 + 3*h**2 - 2*h to i*h**2 + q*h + a and give q.
+-2
+Rearrange 1 - 2*d - 5 + 7 + 0*d**2 + 4*d**3 + 0*d**3 + 2*d**2 to v + l*d + o*d**3 + m*d**2 and give v.
+3

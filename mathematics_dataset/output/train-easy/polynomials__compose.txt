@@ -1,0 +1,6 @@
+Let n(v) = -v**2 - 7*v. Let i(z) = -z**2 - 6*z. Suppose -12 = 2*g - 0. Let q(p) = g*n(p) + 7*i(p). Let l(m) = 2*m. Determine q(l(a)).
+-4*a**2
+Let v(k) = 5*k**2 - 3. Let o(l) = 16*l**2 - 10. Let c(b) = 3*o(b) - 10*v(b). Let z(g) = 2 - 24*g. What is c(z(r))?
+-1152*r**2 + 192*r - 8
+Let u(m) = 3*m**2. Let t(l) be the first derivative of l**3/3 - 2*l**2 - 4*l + 1. Let z(v) = -v**2 + v + 1. Let r(o) = -t(o) - 4*z(o). Determine r(u(i)).
+27*i**4

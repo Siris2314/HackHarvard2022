@@ -1,0 +1,6 @@
+Suppose -6*m = 202*m - 1248. Solve -2*i - 33*n = -36*n - 6, 2*i + 3*n = m for i.
+3
+Suppose -5*r + 14 = 2*q, -r + 2*q - 21 = -q. Solve g - 4*w - 12 = r, -5*g - 375*w = -376*w + 16 for g.
+-4
+Let n be (-22)/(-3)*(-5 - -2). Suppose 22*p = 15*p - 202 + 41. Let b = n - p. Solve -3*i + 10 = -2*h + i, b = h + i for h.
+-1

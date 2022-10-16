@@ -1,0 +1,20 @@
+Let j be (-4)/(-14) + 768/7. Let v = -66 + j. What is the derivative of -18*l**4 + 15 - 22*l**4 + v*l**4 wrt l?
+16*l**3
+What is the derivative of 550*u - 1000 - 167 + 226*u wrt u?
+776
+Let f(c) = 2. Let r(t) = 7*t - 1350. Let z(d) = 7*f(d) + r(d). What is the derivative of z(l) wrt l?
+7
+Let c(x) be the first derivative of -19*x**3/2 - 51*x**2/2 - 7*x + 17. Let u(l) be the first derivative of c(l). Differentiate u(y) with respect to y.
+-57
+Find the third derivative of -122 - 689*f**3 - 413*f**3 - 2 - 2*f**2 + 70 - 207 wrt f.
+-6612
+Let x(y) be the third derivative of -y**7/210 + 89*y**5/15 + 283*y**3/3 + 102*y**2 - 2. Differentiate x(j) with respect to j.
+-4*j**3 + 712*j
+Let p(n) be the second derivative of -781*n**4/12 + 593*n**3/6 - 994*n. Find the second derivative of p(x) wrt x.
+-1562
+Let s(x) = 698*x**3 - 7*x**2 + 2*x + 1. Let g(n) = n**3 + 2*n**2 + n - 3. Let z(v) = -2*g(v) + s(v). Find the third derivative of z(l) wrt l.
+4176
+Let q be (-3)/(3*((-2)/(-1))/(-68)). What is the first derivative of q - 15*m**4 - 49 - 37 wrt m?
+-60*m**3
+Find the third derivative of 513*h**3 + 706*h**3 + 3*h + 5*h**2 - 238*h**2 wrt h.
+7314

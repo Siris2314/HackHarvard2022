@@ -1,0 +1,6 @@
+What is the a'th term of -1807, -1806, -1805, -1804, -1803?
+a - 1808
+What is the l'th term of -127, -129, -131?
+-2*l - 125
+What is the d'th term of 7, 14, 21, 28, 35, 42?
+7*d

@@ -1,0 +1,6 @@
+What is the greatest common factor of 283634 and 1716?
+26
+What is the greatest common factor of 4 and 2570?
+2
+Calculate the highest common divisor of 141 and 1557.
+3

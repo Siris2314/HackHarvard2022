@@ -1,0 +1,6 @@
+Let a(b) = -31*b. Let p(x) = 5887*x**2. What is a(p(v))?
+-182497*v**2
+Let c(v) = 6*v**2. Let q(z) be the third derivative of -z**4/4 - 11*z**2. Let r(j) = -4*j. Let a(h) = 4*q(h) - 5*r(h). Calculate c(a(d)).
+96*d**2
+Let w(o) = -118*o**2 - 6*o. Let y(n) = -216*n**2 - 11*n. Let c(z) = -11*w(z) + 6*y(z). Let s(a) = -9*a**2 - 3 + 3. Determine c(s(k)).
+162*k**4

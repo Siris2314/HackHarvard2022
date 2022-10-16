@@ -1,0 +1,6 @@
+Let t(o) = 26*o**2 + 464*o - 62. What is t(-18)?
+10
+Let w(m) = -13*m**2 - 43*m - 3. Give w(-3).
+9
+Let b(z) = 2407*z - 14188. Calculate b(6).
+254

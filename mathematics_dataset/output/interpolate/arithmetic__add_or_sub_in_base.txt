@@ -1,0 +1,20 @@
+In base 3, what is 111221 - 1210101121?
+-1202212200
+In base 13, what is -1aa7c76 + -2?
+-1aa7c78
+In base 10, what is 838 + 24531?
+25369
+In base 15, what is -5 - -2010d?
+20108
+In base 3, what is 1012001222 + 102111?
+1012111110
+In base 12, what is -7 - 5a9577?
+-5a9582
+In base 12, what is -492 + 1a06?
+1534
+In base 5, what is -10 + 2022430043?
+2022430033
+In base 2, what is -1000000110 + -110011001111010?
+-110100010000000
+In base 11, what is 152 - 41679?
+-41527

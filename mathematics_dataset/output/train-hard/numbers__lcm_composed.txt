@@ -1,0 +1,6 @@
+Suppose x - 4*f - 1 - 6 = 0, 2*x = -4*f - 10. Let c be (-73)/(-72) + (-1)/(x/(-1)). Let q = 1573/72 - c. Find the common denominator of -8 and q.
+6
+Let q(g) = 1827 - 944*g. What is the least common multiple of 1218 and q(0)?
+3654
+Suppose 6*q = -411*v + 407*v + 5760, -3*q - 3*v = -2880. What is the smallest common multiple of q and 320?
+960

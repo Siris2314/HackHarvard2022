@@ -1,0 +1,6 @@
+Suppose 2*y - 10 = -0*y. Let a = y - 5. Let w(f) = f**3 - f**2 - 2*f - 2. Let p be w(2). Put -5, p, a in increasing order.
+-5, p, a
+Let b = -14 - -12. Put 0, -1/6, b, -15 in descending order.
+0, -1/6, b, -15
+Let p = 2/27 - -7/27. Let v = 211 - 209. Sort v, -0.1, p in ascending order.
+-0.1, p, v

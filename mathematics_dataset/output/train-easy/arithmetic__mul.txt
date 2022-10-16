@@ -1,0 +1,6 @@
+Multiply 60 and 3.1.
+186
+Calculate 1*141.3.
+141.3
+15 times -2.3
+-34.5

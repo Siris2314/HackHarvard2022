@@ -1,0 +1,6 @@
+List the prime factors of 242736.
+2, 3, 13, 389
+List the prime factors of 2577551.
+149, 17299
+List the prime factors of 901430.
+2, 5, 109, 827

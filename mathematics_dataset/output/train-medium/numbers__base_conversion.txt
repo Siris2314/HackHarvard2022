@@ -1,0 +1,6 @@
+Convert -36c1 (base 14) to base 6.
+-112201
+Convert 6ed (base 16) to base 4.
+123231
+What is -10011001111001 (base 2) in base 14?
+-3837

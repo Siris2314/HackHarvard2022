@@ -1,0 +1,6 @@
+Solve -18*r + 29*r + 22 = 0 for r.
+-2
+Solve -7*c - 15 = -2*c for c.
+-3
+Solve -12*d = d - 39 for d.
+3

@@ -1,0 +1,20 @@
+Round -0.27758343 to 4 dps.
+-0.2776
+What is 5754.238 rounded to the nearest one thousand?
+6000
+What is 0.00000045908006 rounded to seven dps?
+0.0000005
+Round -30269.06 to the nearest 100.
+-30300
+What is -7276090500 rounded to the nearest one million?
+-7276000000
+Round 4799614.4 to the nearest one hundred thousand.
+4800000
+What is 31014.469 rounded to the nearest 10000?
+30000
+What is 0.0262157372 rounded to six dps?
+0.026216
+What is 0.00085796055 rounded to 7 dps?
+0.000858
+What is -0.041588006 rounded to two dps?
+-0.04

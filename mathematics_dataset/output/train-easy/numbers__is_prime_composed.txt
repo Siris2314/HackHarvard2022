@@ -1,0 +1,6 @@
+Let q be 1 + -2 - 772/(-2). Let x = -35 + 41. Suppose -x*b + q = -b. Is b prime?
+False
+Let j be -29 + (1 + 0 - -1). Let d = j - -46. Is d composite?
+False
+Is (-4584)/(-15) - 3/5 a composite number?
+True

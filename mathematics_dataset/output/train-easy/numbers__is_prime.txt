@@ -1,0 +1,6 @@
+Is 324267 a prime number?
+False
+Is 114259 composite?
+False
+Is 87947 a prime number?
+False
